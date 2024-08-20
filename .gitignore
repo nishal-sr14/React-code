@@ -1,0 +1,5 @@
+01basicreact/
+react_vite_basics/node_modules
+react_vite_basics/package.json
+react_vite_basics/package-lock.json
+react_vite_basics/vite.config.js
